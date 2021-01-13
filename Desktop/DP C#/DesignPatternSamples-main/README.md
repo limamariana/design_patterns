@@ -1,3 +1,6 @@
+Projeto apresentado pelo professor na palestra. README feito pelo mesmo!
+
+
 # DesignPatternSamples
 |Branch|Build|
 |-:|-|
